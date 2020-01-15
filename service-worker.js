@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sheridanunite/precache-manifest.17df09d3a61f4b169780643c7649efce.js"
+  "/sheridanunite/precache-manifest.b981b1e6e35b9890dbf7071f1131f37f.js"
 );
 
 workbox.clientsClaim();
